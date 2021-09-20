@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "" # "Kateryna Voitiuk"
-title_separator          : "-"
+title_separator          : "- Kateryna Voitiuk"
 name                     : &name "Kateryna Voitiuk"
 description              : &description "personal description"
 url                      : https://kvoitiuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
