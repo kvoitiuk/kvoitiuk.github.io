@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kateryna Voitiuk"
+title                    : # "Kateryna Voitiuk"
 title_separator          : "-"
 name                     : &name "Kateryna Voitiuk"
 description              : &description "personal description"
