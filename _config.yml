@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kateryna (Kate) Voitiuk"
+title                    : "Kateryna Voitiuk"
 title_separator          : "-"
-name                     : &name "Kate Voitiuk"
+name                     : &name "Kateryna Voitiuk"
 description              : &description "personal description"
 url                      : https://kvoitiuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kate Voitiuk"
+  name             : "Kateryna Voitiuk"
   avatar           : "profile.png"
   bio              : "PhD Candidate in Bioinformatics at UCSC"
   location         : "Bay Area, CA"
