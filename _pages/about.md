@@ -17,4 +17,6 @@ My research interests are connecting neural tissue to computers, closed-loop neu
 
 For more, check my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_2020_21_kvoitiuk.pdf).
 
-To get in touch, you can contact me at <kvoitiuk@ucsc.edu>.
+To get in touch, you can contact me at:
+
+<img src="https://kvoitiuk.github.io/files/addr.jpg" height="40">
