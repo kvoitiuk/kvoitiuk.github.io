@@ -15,7 +15,7 @@ My advisors are [David Haussler](https://hausslergenomics.ucsc.edu/) and [Mircea
 My research interests are connecting neural tissue to computers, closed-loop neuroscience, and biologically inspired machine learning algorithms.
 
 
-For more, check my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_2020_21_kvoitiuk.pdf).
+For more, check my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_kvoitiuk.pdf).
 
 To get in touch, you can contact me at:
 
