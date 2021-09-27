@@ -19,4 +19,4 @@ For more, check my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_kvoiti
 
 To get in touch, you can contact me at:
 
-![addr](/files/addr.jpg){: height="20"}
+![addr](/files/addr.jpg){: height="10"}
