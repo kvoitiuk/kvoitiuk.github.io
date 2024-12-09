@@ -3,20 +3,23 @@ permalink: /
 title: "Welcome!"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Kate, and I am currently a Ph.D. candidate in [Biomolecular Engineering and Bioinformatics (BMEB)](https://pbse.ucsc.edu/bmeb/index.html) program at the University of California, Santa Cruz. 
+I'm Kate, I use computer science and engineering to solve challenges in biology.
 
-My advisors are [David Haussler](https://hausslergenomics.ucsc.edu/) and [Mircea Teodorescu](https://danserlab.github.io/index.html), and I work in collaboration with multiple labs part of the [Braingeneers](https://braingeneers.ucsc.edu/) project. 
+I work closely with multiple labs parts of the [Braingeneers](https://braingeneers.ucsc.edu/) project.
 
-My research interests are connecting neural tissue to computers, closed-loop neuroscience, and biologically inspired machine learning algorithms.
+During my PhD in [Biomolecular Engineering and Bioinformatics (BMEB)](https://pbse.ucsc.edu/bmeb/index.html) at the University of California, Santa Cruz, I focused on developing [Platforms for In Vitro Electrophysiology Experiments on the Internet of Things](https://escholarship.org/uc/item/19j6k625), advised by [David Haussler](https://hausslergenomics.ucsc.edu/) and [Mircea Teodorescu](https://campusdirectory.ucsc.edu/cd_detail?uid=mteodore).
 
+Currently, I am continuing this work as a Postdoctoral Researcher in [Electrical and Computer Engineering](https://engineering.ucsc.edu/departments/electrical-and-computer-engineering/).
 
-For more, check my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_kvoitiuk.pdf).
+I also co-founded [Open Culture Science, Inc.](https://www.openculturesci.com/), a company dedicated to advancing cloud biology and automated cell culture worldwide.
 
-To get in touch, you can contact me at:
+For more details, take a look at my [Curriculum Vitae](https://kvoitiuk.github.io/files/CV_kvoitiuk.pdf).
+
+You can reach me at:
 
 ![addr](/files/addr.jpg){: height="10"}
